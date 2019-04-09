@@ -51,6 +51,7 @@
         android:layout_height="match_parent">
 
         <Button
+            android:id="@+id/rollButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -59,4 +60,5 @@
             android:text="@string/button_text"
             android:textColor="@color/colorPrimary" />
     </RelativeLayout>
+
 </LinearLayout>
